@@ -1,0 +1,25 @@
+{
+  "name": "Imooc",
+  "authors": [
+    "zhangjing20 <zhangjing20@le.com>"
+  ],
+  "description": "Imooc movie",
+  "main": "",
+  "keywords": [
+    "Imooc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
